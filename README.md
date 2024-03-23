@@ -2,7 +2,7 @@
 
 #### Date, 23/03/2024
 
-#### By Felleria Nang'oma
+#### By ALOICE OGANA
 
 ## Description
 Week 1 code challenge, We were given three challenges:
@@ -24,7 +24,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/Felleria/WK1-Code-Challenge
+Git clone git@github.com:Aloiceogana/WK1-Code-Challenge.git
 
 ```
 
@@ -34,7 +34,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/Felleria
+github.com/Aloiceogana
 
 ### License
 The content of this site is licensed under the MIT license
